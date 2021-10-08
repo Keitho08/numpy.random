@@ -2,6 +2,8 @@
 
 ***
 
+You can view notebook at this url - enter nblviewer link
+use nbviewer badge (google)
 This repository contains an overview of the numpy.random package in a Jupyter notebook.
 
 ## How to run the notebook
